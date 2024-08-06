@@ -1,0 +1,14 @@
+.my-button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.my-button:hover:hover{
+background-color: red;
+}
